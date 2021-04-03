@@ -39,9 +39,9 @@ version = "0.4.1"
 
 [[CUDA]]
 deps = ["AbstractFFTs", "Adapt", "BFloat16s", "CEnum", "CompilerSupportLibraries_jll", "DataStructures", "ExprTools", "GPUArrays", "GPUCompiler", "LLVM", "LazyArtifacts", "Libdl", "LinearAlgebra", "Logging", "MacroTools", "Memoize", "NNlib", "Printf", "Random", "Reexport", "Requires", "SparseArrays", "Statistics", "TimerOutputs"]
-git-tree-sha1 = "03c9d80f34d1120250db9529a07c56afb204abe2"
+git-tree-sha1 = "7802fec3d14c297e3b15eb78996cb3552c2014c6"
 repo-rev = "runnable-wsl-cuda"
-repo-url = "../CUDA.jl"
+repo-url = "/home/soyukke/julia-dev/CUDA.jl"
 uuid = "052768ef-5323-5732-b1bb-66c8b64840ba"
 version = "2.6.2"
 
